@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/josefin-sans": "^5.2.8",
     "@supabase/supabase-js": "^2.86.0",
+    "bootstrap": "^5.3.8",
+    "lucide-react": "^0.555.0",
     "pg": "^8.16.3",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"

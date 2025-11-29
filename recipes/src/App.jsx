@@ -1,12 +1,11 @@
-import { useState } from 'react'
 import './App.css'
+import RecipeList from './components/RecipeList';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-    <h1>Hello World! 🙂</h1>
+      <h1>Buncha' Recipes</h1>
+      <RecipeList />
     </>
   )
 }
